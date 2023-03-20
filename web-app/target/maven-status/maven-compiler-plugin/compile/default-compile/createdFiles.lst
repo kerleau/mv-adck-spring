@@ -1,0 +1,4 @@
+com/alex/framework/mvacspringbootapi/MvacSpringbootApiApplication.class
+com/alex/framework/mvacspringbootapi/model/User.class
+com/alex/framework/mvacspringbootapi/model/Greeting.class
+com/alex/framework/mvacspringbootapi/controller/GreetingController.class
