@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.alex.framework.mvacspringbootapi.MvacSpringbootApiApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.097 s - in com.alex.framework.mvacspringbootapi.MvacSpringbootApiApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.119 s - in com.alex.framework.mvacspringbootapi.MvacSpringbootApiApplicationTests
