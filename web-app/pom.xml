@@ -5,7 +5,7 @@
 
 	<parent>
 	<groupId>com.alex.framework</groupId>
-	<artifactId>mvac-springboot-api</artifactId>
+	<artifactId>mvacspringbootapi</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	</parent>
 

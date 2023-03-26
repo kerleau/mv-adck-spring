@@ -22,4 +22,10 @@ public class GreetingController {
         public String hello(@RequestParam(value = "name", defaultValue = "World") String name) {
             return "Hello, " + name + "!";
         }
+
+		@GetMapping("/")
+        public String helloBase(@RequestParam(value = "name", defaultValue = "World ADD your name") String name) {
+            return "Hello, " + name + "!";
+        }
+
 }

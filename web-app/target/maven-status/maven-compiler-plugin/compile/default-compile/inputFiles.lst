@@ -1,4 +1,4 @@
-/home/k7k/Documents/Courses/Maven/mv-adck-spring/mvac-springboot/web-app/src/main/java/com/alex/framework/mvacspringbootapi/MvacSpringbootApiApplication.java
-/home/k7k/Documents/Courses/Maven/mv-adck-spring/mvac-springboot/web-app/src/main/java/com/alex/framework/mvacspringbootapi/controller/GreetingController.java
-/home/k7k/Documents/Courses/Maven/mv-adck-spring/mvac-springboot/web-app/src/main/java/com/alex/framework/mvacspringbootapi/model/User.java
-/home/k7k/Documents/Courses/Maven/mv-adck-spring/mvac-springboot/web-app/src/main/java/com/alex/framework/mvacspringbootapi/model/Greeting.java
+/workspaces/mv-adck-spring/web-app/src/main/java/com/alex/framework/mvacspringbootapi/controller/GreetingController.java
+/workspaces/mv-adck-spring/web-app/src/main/java/com/alex/framework/mvacspringbootapi/model/User.java
+/workspaces/mv-adck-spring/web-app/src/main/java/com/alex/framework/mvacspringbootapi/MvacSpringbootApiApplication.java
+/workspaces/mv-adck-spring/web-app/src/main/java/com/alex/framework/mvacspringbootapi/model/Greeting.java

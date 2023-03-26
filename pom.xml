@@ -3,21 +3,23 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
+	<parent>
+	<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.7.10</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+
+
 	 <packaging>pom</packaging>
 
 	 	<modules>
         <module>web-app</module>
 	</modules>
 
-	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.7.10-SNAPSHOT</version>
-		<relativePath/> <!-- lookup parent from repository -->
-	</parent>
 	
 	<groupId>com.alex.framework</groupId>
-	<artifactId>mvac-springboot-api</artifactId>
+	<artifactId>mvacspringbootapi</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>mvac-springboot-api</name>
 	<description>Demo project for Spring Boot</description>
